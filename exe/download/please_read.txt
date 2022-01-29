@@ -1,0 +1,2 @@
+The download directory is the default filepath of the application. So please keep it.
+But you can delete this txt file after reading.
